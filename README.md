@@ -12,7 +12,7 @@ Escreva um programa em Java em que o usuário informe o seu nome e em seguida o 
 # 4 - A Bit of Geometry
 Considerando a figura abaixo, escreva um programa para cada forma que calcule e exiba em tela cada uma de suas respectivas áreas. O usuário irá informar os valores de cada variável. Crie um arquivo para cada fórmula e poste os  arquivos no GitHub. Link do repositório abaixo. 
 Áreas de Figuras Planas
-
+<img src="calculoFormas.jpg">
 # 5 - 1, 2 e 3
 Faça um programa que leia um valor informado pelo usuário e diga se o valor informado é positivo, negativo ou neutro.
 # 6 - Qual o maior?
