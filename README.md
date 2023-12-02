@@ -10,9 +10,9 @@ Escreva um programa em Java em que o usuário informe o seu nome e exiba a mensa
 # 3 - A Bit of Information
 Escreva um programa em Java em que o usuário informe o seu nome e em seguida o programa perguntará a idade do usuário. Agora o programa deve exibir a mensagem "Olá, [NomeDoUsuario], sua idade é [idade]".
 # 4 - A Bit of Geometry
-Considerando a figura abaixo, escreva um programa para cada forma que calcule e exiba em tela cada uma de suas respectivas áreas. O usuário irá informar os valores de cada variável. Crie um arquivo para cada fórmula e poste os  arquivos no GitHub. Link do repositório abaixo. 
-Áreas de Figuras Planas
-<img src="calculoFormas.jpg">
+Considerando a figura abaixo, escreva um programa para cada forma que calcule e exiba em tela cada uma de suas respectivas áreas. O usuário irá informar os valores de cada variável. Crie um arquivo para cada fórmula e poste os  arquivos no GitHub.
+Áreas de Figuras Planas:
+<img src="calculoFormas.jpeg">
 # 5 - 1, 2 e 3
 Faça um programa que leia um valor informado pelo usuário e diga se o valor informado é positivo, negativo ou neutro.
 # 6 - Qual o maior?
